@@ -105,7 +105,7 @@ get p_lists.txt
 exit
 ```
 
-Next, I used the ls command on my local machine to confirm that information.txt and p_lists.txt were successfully downloaded.
+Next, I used the ls command on my local machine to confirm that ```information.txt``` and ```p_lists.txt``` were successfully downloaded.
 
 ```bash
 ls
