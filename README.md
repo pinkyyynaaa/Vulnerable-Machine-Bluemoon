@@ -124,7 +124,7 @@ cat p_lists.txt
 ```
 With these two pieces of information, the next logical step is to attempt an SSH brute-force attack to gain a shell on the target machine.
 
-## 4. User Access
+## 5. User Access
 The information.txt file hinted that the user robin had a weak password from the provided list. Used Hydra to brute-force the SSH login.
 
 ```bash
