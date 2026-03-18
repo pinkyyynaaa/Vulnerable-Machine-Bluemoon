@@ -56,7 +56,7 @@ The scan show an important open ports:
 ## 3. Web Enumeration
 The purpose of using ```dirb``` command is **Directory Brute-forcing**. It is used to discover hidden files and directories on the web server that aren't visible to a normal visitor.
 ```bash
-dirb http://192.168.56.101 ~/Dektop/wordlist.txt -X -php.html.txt
+dirb http://192.168.56.105 ~/Desktop/wordlist.txt -X .php,.html,.txt
 ```
 
 * Targeting: It scans the web server located at http://192.168.56.101.
